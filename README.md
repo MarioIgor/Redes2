@@ -1,6 +1,6 @@
 # Redes de computadores 2
 
-# Chat desenvolvido em java com mensagens trocadas entre clientes e servidor criptografadas utilizando RSA.
+Chat desenvolvido em java com mensagens trocadas entre clientes e servidor criptografadas utilizando RSA.
 
 ## Autor: 
 - Mário Igor .
